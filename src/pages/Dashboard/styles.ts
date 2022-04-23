@@ -198,7 +198,7 @@ article{
 
         .containerImg{
             margin-top:20px;
-            background-color:red;
+            background-color:${colorVariables.darkGray};
             min-height:100px;
             min-width:100%;
             height:100%;
